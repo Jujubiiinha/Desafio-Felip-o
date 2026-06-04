@@ -1,1 +1,1 @@
-console.log("oi")
+console.log(" Quero saber do babado do teu ex boy. Aquele escroto!");
