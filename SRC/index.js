@@ -1,1 +1,1 @@
-console.log(" Quero saber do babado do teu ex boy. Aquele escroto!");
+console.log("Não chora princesaa, se não a coroa cai! bjs")
